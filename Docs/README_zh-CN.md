@@ -6,7 +6,7 @@
 # PemukulPaku  
 A private server implementation for a third impact game but made in see sharp  
 ## 快速开始  
-**前提条件1*  
+**前提条件*  
 * 阅读文章的能力  
 * GitHub 账户   
 * [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)   
